@@ -6,3 +6,4 @@
 
 ## проекты:
 - [практикастудентам.рф](почтовыйсервси.md)
+<img width="319" height="60" alt="image" src="https://github.com/user-attachments/assets/9861ba8a-b26c-4875-aa03-8af536afa2c6" />
