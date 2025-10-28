@@ -7,4 +7,5 @@
 ## проекты:
 - [практикастудентам.рф](https://xn--80aaapfpnbwiomskedn.xn--p1ai/) [документация](почтовыйсервис.md) 
 <img width="319" height="60" alt="image" src="https://github.com/user-attachments/assets/9861ba8a-b26c-4875-aa03-8af536afa2c6" />
-- [тг комбайн]() [документация](тгкомбайн.md) 
+
+- [тгкомбайн]() [документация](тгкомбайн.md) 
