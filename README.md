@@ -8,13 +8,13 @@
 
 🟩 **(PROD.)**  
 [практикастудентам.рф](https://xn--80aaapfpnbwiomskedn.xn--p1ai/) — [документация](практикастудентам.md)  
-
 ![практика](https://github.com/user-attachments/assets/44b4db99-833a-472f-85be-4b9fcc0e02ee)
 
-🟨 **(DEV.)**  
+🟩 **(PROD.)**  
+[чат-бот и мини-приложение хакатон MAX](https://maxhackathon.ru/) — [документация]([хакатонмакс.md)  
+![чат-бот](https://github.com/user-attachments/assets/24ab9653-6e0b-4917-84c7-1531f9175ab4)
+![мини-приложение](https://github.com/user-attachments/assets/893550c8-53aa-48c8-a985-b5105fb3c6c3)
+
+🟧 **(END)**  
 [autodoc platform]() — [документация](autodoc_platform.md)  
-
 ![о](https://github.com/user-attachments/assets/be285422-0939-4e12-a1e3-fa7b2a40f021)
-
-🟨 **(DEV.)**  
-[тгкомбайн]() — [документация](тгкомбайн.md)  
