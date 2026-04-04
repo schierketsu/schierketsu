@@ -6,9 +6,9 @@
 
 ## проекты:
 🟩 **(prod.)**  
-[чат-бот и мини-приложение хакатон MAX](https://maxhackathon.ru/) — [документация]([хакатонмакс.md)  
-![мини-приложение](https://github.com/user-attachments/assets/893550c8-53aa-48c8-a985-b5105fb3c6c3)
-
-🟩 **(prod.)**  
 [система-анализ файлов на иислоп](https://необманывай.рф/) — [документация]([README.md)  
 <img width="2117" height="1305" alt="image" src="https://github.com/user-attachments/assets/ec91a2c4-2e8f-4e33-a05f-f7c681718bd5" />
+
+🟩 **(prod.)**  
+[чат-бот и мини-приложение хакатон MAX](https://maxhackathon.ru/) — [документация]([хакатонмакс.md)  
+![мини-приложение](https://github.com/user-attachments/assets/893550c8-53aa-48c8-a985-b5105fb3c6c3)
