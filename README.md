@@ -26,11 +26,9 @@
 </table>
 
 ## проекты:
-🟩 **(prod.)**  
-[система-анализ файлов на иислоп](https://необманывай.рф/) — [описание](необманывай.md)  
+🟩 [система-анализ файлов на иислоп](https://необманывай.рф/) — [описание](необманывай.md)  
 [репозиторий](https://github.com/schierketsu/deepfake)
 <img width="1509" height="1306" alt="image" src="https://github.com/user-attachments/assets/2ca1c67b-0958-42d5-96c5-bbc0898d827d" />
 
-🟩 **(prod.)**  
-[чат-бот и мини-приложение хакатон MAX](https://maxhackathon.ru/) — [описание](хакатонмакс.md)  
+🟩 [чат-бот и мини-приложение хакатон MAX](https://maxhackathon.ru/) — [описание](хакатонмакс.md)  
 ![мини-приложение](https://github.com/user-attachments/assets/893550c8-53aa-48c8-a985-b5105fb3c6c3)
