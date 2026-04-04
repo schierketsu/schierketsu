@@ -7,7 +7,7 @@
 ## проекты:
 🟩 **(prod.)**  
 [система-анализ файлов на иислоп](https://необманывай.рф/) — [документация]([README.md)  
-<img width="2117" height="1305" alt="image" src="https://github.com/user-attachments/assets/ec91a2c4-2e8f-4e33-a05f-f7c681718bd5" />
+<img width="1509" height="1306" alt="image" src="https://github.com/user-attachments/assets/2ca1c67b-0958-42d5-96c5-bbc0898d827d" />
 
 🟩 **(prod.)**  
 [чат-бот и мини-приложение хакатон MAX](https://maxhackathon.ru/) — [документация]([хакатонмакс.md)  
