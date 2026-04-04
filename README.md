@@ -28,6 +28,7 @@
 ## проекты:
 🟩 **(prod.)**  
 [система-анализ файлов на иислоп](https://необманывай.рф/) — [описание](необманывай.md)  
+[репозиторий](https://github.com/schierketsu/deepfake)
 <img width="1509" height="1306" alt="image" src="https://github.com/user-attachments/assets/2ca1c67b-0958-42d5-96c5-bbc0898d827d" />
 
 🟩 **(prod.)**  
