@@ -36,5 +36,6 @@
 
 
 🟨 [чат-бот и мини-приложение хакатон MAX](https://maxhackathon.ru/) — [описание](хакатонмакс.md)  
+[репозиторий](https://github.com/schierketsu/vkhackathon)
 ![мини-приложение](https://github.com/user-attachments/assets/893550c8-53aa-48c8-a985-b5105fb3c6c3)
 
