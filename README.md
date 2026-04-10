@@ -30,5 +30,11 @@
 [репозиторий](https://github.com/schierketsu/deepfake)
 <img width="1509" height="1306" alt="image" src="https://github.com/user-attachments/assets/2ca1c67b-0958-42d5-96c5-bbc0898d827d" />
 
+🟨 [родословная с рекомендациями на основе ML](https://github.com/schierketsu/moyrod) — [описание](своикорни.md)  
+[репозиторий](https://github.com/schierketsu/moyrod)
+<img width="2560" height="1312" alt="image" src="https://github.com/user-attachments/assets/6c111284-d6a6-4e89-839c-45fb5711514f" />
+
+
 🟨 [чат-бот и мини-приложение хакатон MAX](https://maxhackathon.ru/) — [описание](хакатонмакс.md)  
 ![мини-приложение](https://github.com/user-attachments/assets/893550c8-53aa-48c8-a985-b5105fb3c6c3)
+
