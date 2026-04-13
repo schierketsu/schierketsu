@@ -30,10 +30,13 @@
 [репозиторий](https://github.com/schierketsu/deepfake)
 <img width="1509" height="1306" alt="image" src="https://github.com/user-attachments/assets/2ca1c67b-0958-42d5-96c5-bbc0898d827d" />
 
+🟩 [платформа поиска производственных практик студентам](https://практикастудентам.рф/) — [описание](практикастудентам.md)  
+[репозиторий](https://github.com/schierketsu/practice)
+<img width="2560" height="1243" alt="image" src="https://github.com/user-attachments/assets/d74eb445-49d1-46ec-a9d5-e6c3c6ee3431" />
+
 🟨 [родословная с рекомендациями на основе ML](https://github.com/schierketsu/moyrod) — [описание](своикорни.md)  
 [репозиторий](https://github.com/schierketsu/moyrod)
 <img width="2560" height="1312" alt="image" src="https://github.com/user-attachments/assets/6c111284-d6a6-4e89-839c-45fb5711514f" />
-
 
 🟨 [чат-бот и мини-приложение хакатон MAX](https://maxhackathon.ru/) — [описание](хакатонмакс.md)  
 [репозиторий](https://github.com/schierketsu/vkhackathon) <br>
